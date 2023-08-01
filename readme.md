@@ -17,7 +17,7 @@ This repository serves as a collection of Java programs and tries to document ba
 
 Here are some of the key Java program types available in this repository:
 
-1. [🔍 Math Based Programs](.kunjicoder/Java-Programs/MathbasedPrograms) - This File contains programs involving mathematical formulas and logic .
+1. [🔍 Math Based Programs](kunjicoder/Java-Programs/MathbasedPrograms) - This File contains programs involving mathematical formulas and logic .
 
 Please explore the directories to find more programs and their descriptions.
 
