@@ -15,11 +15,9 @@ This repository serves as a collection of Java programs and tries to document ba
 
 ## 📂 Programs
 
-Here are some of the key Java programs available in this repository:
+Here are some of the key Java program types available in this repository:
 
-1. [🔍 Reverse a number](.kunjicoder/Java-Programs/reverseanum.java) - A program from Leetcode program list which involves reversing an integer.
-2. [🎯 Target sum in an array](.kunjicoder/Java-Programs/twosum.java) - A program from Leetcode program list which finding the index of two elements in an array which gives a target sum.
-3. [🔮 Program 3](./directory3/Program3.java) - A brief description of Program 3.
+1. [🔍 Math Based Programs](.kunjicoder/Java-Programs/MathbasedPrograms) - This File contains programs involving mathematical formulas and logic .
 
 Please explore the directories to find more programs and their descriptions.
 
