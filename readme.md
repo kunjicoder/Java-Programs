@@ -18,6 +18,7 @@ This repository serves as a collection of Java programs and tries to document ba
 Here are some of the key Java program types available in this repository:
 
 1. [🔍 Math Based Programs](/MathbasedProblems) - This File contains programs involving mathematical formulas and logic .
+2. [🔍 String Based Programs](/StringProblems) - This File contains programs involving String manipulations .
 
 Please explore the directories to find more programs and their descriptions.
 
